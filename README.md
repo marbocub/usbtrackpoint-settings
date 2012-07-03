@@ -31,7 +31,7 @@ You need libusb-1.0 headers and libraries installed.
 See also
 ========
 
-There's a [multi-functional tool][1] exists, it will run only on Linux.
+There's a [multi-functional tool written by Bernhard Seibold][1], it will run only on Linux.
 
 [1]: https://github.com/bseibold/tpkbdctl
 
